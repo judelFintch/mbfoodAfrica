@@ -1,8 +1,6 @@
 @extends('layouts.app')
-@section('title', 'Bienvenu chez Mobile food')
-
+@section('title', 'Mobile Food Africa')
 @section('content')
-
   <!-- hero section -->
   <section id="#" class="relative">
         <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
@@ -18,9 +16,7 @@
                             </div> plats de la ville
                         </h1>
                         <p class="text-gray-500 line-clamp-3">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti iusto repellendus itaque
-                            ipsa saepe perferendis iste temporibus mollitia minus possimus perspiciatis, aut animi ea
-                            enim odio culpa nostrum. Sed, molestiae.
+                        Comment ça marche ? C'est très simple !.
                         </p>
                     </div>
                     <div class="flex w-full sm:flex-row gap-5 flex-col sm:w-max justify-center lg:justify-start">
@@ -29,7 +25,6 @@
                         after:absolute after:inset-0 after:z-0 after:bg-primary after:rounded-md after:transition after:ease-linear after:duration-300 hover:after:scale-105 focus:after:scale-100">
                             <span class="text-white relative z-10">Trouver mon plat</span>
                         </a>
-
                         <a href="#"
                             class="relative sm:w-max w-full px-6 py-3 text-primary gap-4 
                         after:absolute after:inset-0 after:z-0 after:bg-transparent hover:after:bg-primary/10 after:rounded-md after:transition after:ease-linear after:duration-300 hover:after:scale-105 focus:after:scale-100">
@@ -78,71 +73,51 @@
                 <div class="flex flex-col text-center items-center mx-auto max-w-xl">
                     <span class="font-bold text-lg text-primary">- Categories</span>
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                        Les meilleurs plats <div
+                    C'est le moment de commander <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">Lorem ips</span>
-                        </div> en RDC
+                            <span class="relative text-white">Votre Plat</span>
+                        </div> chez mobile Food
                     </h2>
                 </div>
                 <div class="grid grid-cols-2 md:grid-cols-3 items-stretch gap-4 sm:gap-8 lg:gap-10">
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
+                        style="background-image: url(images/hot-dog-sonora.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
+                                <h2 class="text-lg font-semibold sm:text-xl text-white">Hot dog</h2>
                             </div>
                         </div>
                     </div>
 
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
+                        style="background-image: url(images/2.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
+                                <h2 class="text-lg font-semibold sm:text-xl text-white">Sandwich</h2>
                             </div>
                         </div>
                     </div>
 
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
+                        style="background-image: url(images/3.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
+                                <h2 class="text-lg font-semibold sm:text-xl text-white">hamburger</h2>
                             </div>
                         </div>
                     </div>
 
+                
+
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
+                        style="background-image: url(images/4.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
-                        <div
-                            class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
-                            <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/food1.webp);">
-                        <div
-                            class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
-                            <div class="text-center">
-                                <h2 class="text-lg font-semibold sm:text-xl text-white">Category name</h2>
+                                <h2 class="text-lg font-semibold sm:text-xl text-white">Pizza</h2>
                             </div>
                         </div>
                     </div>
@@ -380,29 +355,22 @@
                     <div class="flex flex-col">
                         <span class="font-bold text-lg text-primary">- A propos</span>
                         <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                            Les meilleurs plats <div
+                A propos    <div
                                 class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                                <span class="relative text-white">Lorem ips</span>
-                            </div> en RDC
+                                <span class="relative text-white">Mobile Food</span>
+                            </div> Africa
                         </h2>
                     </div>
                     <div class="space-y-1">
                         <p class="text-gray-500">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error consequatur optio repellat,
-                            non labore iure facere, odio quo impedit sequi, libero nisi nesciunt nemo harum
+                        L’objectif de l’entreprise et sa ligne directrice sont de préparer et de livrer des plats fast Food de meilleure qualité et dans le bref délai possible pour satisfaire aux besoins de nos clients. 
                         </p>
                         <p class="text-gray-500">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error consequatur optio repellat,
-                            non labore iure facere, odio quo impedit sequi, libero nisi nesciunt nemo harum
+                        Notre mission est de devenir un géant de la restauration en république démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
+                        Mais aussi en contribuant au développement du pays et de l’Afrique par la création de plusieurs emplois
                         </p>
                     </div>
-                    <div class="pt-2 w-max">
-                        <a href="#contact-us"
-                            class="relative px-6 py-3 
-                        after:absolute after:inset-0 after:z-0 after:bg-primary after:rounded-md after:transition after:ease-linear after:duration-300 hover:after:scale-105 focus:after:scale-100">
-                            <span class="text-white relative z-10">En savoir plus</span>
-                        </a>
-                    </div>
+                    
                 </div>
 
 
@@ -410,6 +378,4 @@
         </div>
     </section>
     <!-- about section -->
-
-
 @endsection
