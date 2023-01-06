@@ -45,7 +45,7 @@
                     
                     
                     <div class="relative flex h-full lg:pt-4 items-center justify-center">
-                        <img src="images/Image.png" width="400" alt="hungry young girl" class=" lg:w-auto lg:h-full flex relative">
+                        <img src="{{asset('frontend/images/Image.png')}}" width="400" alt="hungry young girl" class=" lg:w-auto lg:h-full flex relative">
                         <div class="absolute -bottom-3 -right-3 p-2 bg-white rounded-lg shadow-lg shadow-primary/10">
                             <div class="flex items-center gap-3">
                                 <div class="flex w-16 h-16 rounded-md overflow-hidden">
@@ -81,7 +81,7 @@
                 </div>
                 <div class="grid grid-cols-2 md:grid-cols-3 items-stretch gap-4 sm:gap-8 lg:gap-10">
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/hot-dog-sonora.webp);">
+                        style="background-image: url(frontend/images/hot-dog-sonora.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
@@ -91,7 +91,7 @@
                     </div>
 
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/2.webp);">
+                        style="background-image: url(frontend/images/2.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
@@ -101,7 +101,7 @@
                     </div>
 
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/3.webp);">
+                        style="background-image: url(frontend/images/3.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
@@ -113,7 +113,7 @@
                 
 
                     <div class="p-4 rounded-md group bg-cover bg-center bg-no-repeat"
-                        style="background-image: url(images/4.webp);">
+                        style="background-image: url(frontend/images/4.webp);">
                         <div
                             class="opacity-0 rounded-md transition h-full ease-linear group-hover:opacity-100 bg-primary bg-opacity-60 w-full flex items-center justify-center py-12 md:py-16 lg:py-20 px-4">
                             <div class="text-center">
@@ -164,7 +164,7 @@
                     <div data-products class="grid sm:grid-cols-2 md:grid-cols-3 items-stretch gap-6 sm:gap-8 lg:gap-10">
                         <div data-category="category1" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -192,7 +192,7 @@
 
                         <div data-category="category1" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -221,7 +221,7 @@
 
                         <div data-category="category2" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -250,7 +250,7 @@
 
                         <div data-category="category3" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -279,7 +279,7 @@
 
                         <div data-category="category3" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -308,7 +308,7 @@
 
                         <div data-category="category1" data-product class="bg-white border border-gray-100 shadow-xl rounded-lg shadow-primary/5">
                             <div class="w-full rounded-t-lg rounded-br-2xl overflow-hidden bg-primary/10 h-44 sm:h-48 lg:h-64">
-                                <img src="images/food1.webp" width="400" alt="img prod" class="w-full h-full object-cover">
+                                <img src="{{asset('frontend/images/food1.webp')}}" width="400" alt="img prod" class="w-full h-full object-cover">
                             </div>
                             <div class="flex flex-col px-5 py-5">
                                 <span class="w-max p-0.5 px-2 rounded-full text-orange-600 bg-primary/10">
@@ -349,7 +349,7 @@
         <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
             <div class="grid md:items-center md:grid-cols-2 gap-10 lg:gap-12">
                 <div class="w-full md:h-full flex">
-                    <img src="images/chef.webp" width="500" alt="img cover about" class="w-full md:h-full object-cover rounded-lg">
+                    <img src="{{asset('frontend/images/chef.webp')}}" width="500" alt="img cover about" class="w-full md:h-full object-cover rounded-lg">
                 </div>
                 <div class="flex flex-col gap-5">
                     <div class="flex flex-col">

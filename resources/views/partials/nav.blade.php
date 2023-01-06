@@ -5,7 +5,7 @@
                 <!-- logo app -->
                 <div data-header-sub class="flex items-center transition justify-between gap-2 w-full lg:w-max px-5 sm:px-10 md:px-12 lg:px-0 lg:bg-transparent h-full py-4 lg:py-0 relative z-200">
                     <a href="#" title="logo" class="text-xl sm:text-2xl flex items-center font-bold text-gray-dark">
-                        <img src="{{asset('images/logo.png')}}" width="100" alt="fastFood" class="w-auto h-12">
+                        <img src="{{asset('frontend/images/logo.png')}}" width="100" alt="fastFood" class="w-auto h-12">
                     </a>
                     <div class="border-l pl-2 border-gray-200 flex lg:hidden min-w-max">
                         <button data-toggle-nav class="relative w-10 h-auto p-2">
