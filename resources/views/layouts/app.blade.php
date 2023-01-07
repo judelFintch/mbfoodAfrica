@@ -8,12 +8,12 @@
     <meta name="description" content="description" />
     <title>@yield('title')</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{asset('frontend/assets/css/index.css')}}">
+    <link rel="stylesheet" href="frontend/assets/css/index.css">
 </head>
 
 <body class="overflow-x-hidden">
     @include('partials.nav')
         @yield('content')
     @include('partials.footer')
-    <script src="{{asset('frontend/assets/js/main.js')}}"></script>
+    <script src="frontend/assets/js/main.js"></script>
 </body>
