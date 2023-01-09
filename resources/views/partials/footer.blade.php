@@ -6,9 +6,9 @@
                     <div class="flex flex-col gap-5">
                         <a href="#" class="text-xl sm:text-2xl flex items-center font-bold text-gray-100">
                             <span class="relative before:absolute p-0.5 before:inset-0 before:bg-primary before:skew-x-6 before:rounded-md ">
-                                <span class="relative text-gray-100">Candy</span>
+                                <span class="relative text-gray-100">Mobile Food</span>
                             </span>
-                            Restau
+                            Africa
                         </a>
                         <p class="text-gray-400">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -40,7 +40,7 @@
                                   </svg>
                                   
                             </span>
-                            +243 97 24 44 966
+                            +243 971 312 472
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                     <h3 class="relative pl-5 text-xl font-semibold before:absolute before:bg-primary before:h-full before:max-h-7 before:w-1 before:rounded-md before:top-0 before:-left-0.5 text-gray-100">Categories</h3>
                     <ul role="list" class="space-y-3 text-gray-400 pl-5">
                         <li>
-                            <a href="#" class="transition ease-linear hover:text-primary">Categorie1</a>
+                            <a href="#categories" class="transition ease-linear hover:text-primary">Categorie1</a>
                         </li>
                         <li>
                             <a href="#" class="transition ease-linear hover:text-primary">All cat</a>
@@ -102,7 +102,7 @@
         <div class="bg-[#373737] py-2">
             <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
                 <div class="text-center text-gray-300">
-                    Copyright &copy; <span id="year"></span>. All Rights reserved. Designed by <a href="#" class="inline-block text-primary">roydev</a>
+                    Copyright &copy; <span id="year"></span>. All Rights reserved  <a href="#" class="inline-block text-primary">{{config('app.name')}}</a>
                 </div>
             </div>
         </div>

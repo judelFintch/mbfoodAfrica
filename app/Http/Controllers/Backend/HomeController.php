@@ -1,6 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Backend;
+
+use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 
@@ -21,8 +23,8 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function index()
+    public function dashboard()
     {
-        return view('home');
+        return view('pages.backend.dashboard');
     }
 }

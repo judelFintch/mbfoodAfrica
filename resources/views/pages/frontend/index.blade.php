@@ -42,8 +42,6 @@
                     </div>
                 </div>
                 <div class="relative lg:flex lg:h-full lg:static lg:items-end justify-center">
-                    
-                    
                     <div class="relative flex h-full lg:pt-4 items-center justify-center">
                         <img src="{{asset('frontend/images/Image.png')}}" width="400" alt="hungry young girl" class=" lg:w-auto lg:h-full flex relative">
                         <div class="absolute -bottom-3 -right-3 p-2 bg-white rounded-lg shadow-lg shadow-primary/10">
@@ -342,7 +340,6 @@
         </div>
     </section>
     <!-- menus section -->
-
 
     <!-- about section -->
     <section id="about" class="pt-24 lg:pt-32">
