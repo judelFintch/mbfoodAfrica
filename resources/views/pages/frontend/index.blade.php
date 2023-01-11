@@ -71,9 +71,9 @@
                 <div class="flex flex-col text-center items-center mx-auto max-w-xl">
                     <span class="font-bold text-lg text-primary">- Categories</span>
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                    Venez découvrir la variété de nos produits  !  <div
+                    Découvrez la variété de  produits  !  <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">chez notre fast-food</span>
+                            <span class="relative text-white">chez Mobile Food Africa</span>
                         </div> 
                     </h2>
                 </div>
@@ -360,12 +360,22 @@
                     </div>
                     <div class="space-y-1">
                         <p class="text-gray-500">
-                        Manger rapidement et facilement, c'est possible avec Mobile Food ! Commandez en ligne et faites-vous livrer ou venez retirer votre commande en magasin. Plus besoin de faire la queue, commandez depuis votre ordinateur ou votre téléphone portable. Avec notre large choix de burgers, de frites et de boissons, vous pourrez satisfaire vos envies de fast-food en quelques clics. Et pour couronner le tout, bénéficiez de réductions exclusives en passant commande en ligne. Commandez dès maintenant et découvrez la simplicité de manger rapidement chez [Nom de la chaine de fast-food]"
+                       
+                            <p>
+                                <b>L’objectif</b> de l’entreprise et sa ligne directrice sont de préparer et de livrer des plats fast Food de meilleure qualité et dans le bref délai possible pour satisfaire aux besoins de nos clients. 
+                            </p>
+                           
+                            <b>
+                                <p>Notre mission </b> de devenir un géant de la restauration en république démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
+                            Mais aussi en contribuant au développement du pays et de l’Afrique par la création de plusieurs emplois.
+                            </p>
+                           
+                            <p>
+                                Mobile Food offre un <b>Services</b> de restauration fast Food, dont l’axe principale est la livraison des plats sur commande.
+                            </p>
                         </p>
-                        <p class="text-gray-500">
-                        Notre mission est de devenir un géant de la restauration en république démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
-                        Mais aussi en contribuant au développement du pays et de l’Afrique par la création de plusieurs emplois
-                        </p>
+                       
+                        
                     </div>
                     
                 </div>
