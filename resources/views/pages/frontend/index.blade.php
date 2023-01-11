@@ -365,8 +365,8 @@
                                 <b>L’objectif</b> de l’entreprise et sa ligne directrice sont de préparer et de livrer des plats fast Food de meilleure qualité et dans le bref délai possible pour satisfaire aux besoins de nos clients. 
                             </p>
                            
-                            <b>
-                                <p>Notre mission </b> de devenir un géant de la restauration en république démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
+                        
+                                <p ><b>Notre mission </b> est de devenir un géant de la restauration en République Démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
                             Mais aussi en contribuant au développement du pays et de l’Afrique par la création de plusieurs emplois.
                             </p>
                            
