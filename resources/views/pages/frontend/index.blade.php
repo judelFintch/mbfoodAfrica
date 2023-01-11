@@ -455,7 +455,7 @@
                             <h2 class="text-4xl lg:text-4xl font-bold text-title">
                             Vous cherchez<div
                                     class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                                    <span class="relative text-white"> un repas savoureux ?</span>
+                                    <span class="relative text-white"> un repas?</span>
                                 </div> 
                             </h2>
                         </div>
