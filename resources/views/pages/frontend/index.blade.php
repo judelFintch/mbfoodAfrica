@@ -385,4 +385,205 @@
         </div>
     </section>
     <!-- about section -->
+      <!-- services section -->
+      <section id="services" class="pt-24 lg:pt-32">
+        <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
+            <div class="flex flex-col text-center items-center mx-auto max-w-xl">
+                <span class="font-bold text-lg text-primary">- Nos services</span>
+                <h2 class="text-4xl lg:text-4xl font-bold text-title">
+                    Optez pour <div
+                        class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
+                        <span class="relative text-white">le meilleur</span>
+                    </div> sercvice en RDC
+                </h2>
+            </div>
+            <div class="grid gap-6 lg:items-stretch lg:gap-10 md:mx-auto md:w-8/12 lg:w-full lg:grid-cols-3 pt-10">
+                <div class="group space-y-6 border border-gray-100 bg-white px-8 py-12 text-center shadow-xl rounded-lg shadow-primary/5">
+                    <div class="flex justify-center">
+                        <span class="p-5 rounded-full bg-primary text-white">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path fill-rule="evenodd" d="M2 3a1 1 0 00-1 1v1a1 1 0 001 1h16a1 1 0 001-1V4a1 1 0 00-1-1H2zm0 4.5h16l-.811 7.71a2 2 0 01-1.99 1.79H4.802a2 2 0 01-1.99-1.79L2 7.5zM10 9a.75.75 0 01.75.75v2.546l.943-1.048a.75.75 0 111.114 1.004l-2.25 2.5a.75.75 0 01-1.114 0l-2.25-2.5a.75.75 0 111.114-1.004l.943 1.048V9.75A.75.75 0 0110 9z" clip-rule="evenodd" />
+                              </svg>                          
+                        </span>
+                      </div>
+                  <h3 class="text-2xl font-semibold  text-gray-dark">Livraison rapide</h3>
+                  <p class="text-gray-500">
+                  Vous êtes pressé ? Pas de problème ! Chez nous, nous vous offrons une livraison ultra rapide ! Commandez en ligne ou par téléphone, et nous nous occupons de tout. Que ce soit pour un déjeuner d'affaires ou pour une soirée télévision, nous livrons rapidement nos burgers, frites, boissons et desserts directement chez vous.
+                  </p>
+                </div>
+                <div class="group space-y-6 border border-gray-100 bg-white px-8 py-12 text-center shadow-xl rounded-lg shadow-primary/5">
+                    <div class="flex justify-center">
+                        <span class="p-5 rounded-full bg-primary text-white">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                                <path fill-rule="evenodd" d="M2 3a1 1 0 00-1 1v1a1 1 0 001 1h16a1 1 0 001-1V4a1 1 0 00-1-1H2zm0 4.5h16l-.811 7.71a2 2 0 01-1.99 1.79H4.802a2 2 0 01-1.99-1.79L2 7.5zM10 9a.75.75 0 01.75.75v2.546l.943-1.048a.75.75 0 111.114 1.004l-2.25 2.5a.75.75 0 01-1.114 0l-2.25-2.5a.75.75 0 111.114-1.004l.943 1.048V9.75A.75.75 0 0110 9z" clip-rule="evenodd" />
+                              </svg>                          
+                        </span>
+                      </div>
+                  <h3 class="text-2xl font-semibold  text-gray-dark">Meilleur prix</h3>
+                  <p class="text-gray-500">
+                  Recherchez-vous des prix abordables pour des repas de qualité ? , nous vous offrons les meilleurs prix pour des produits frais et savoureux. Commandez en ligne ou en magasin et bénéficiez de nos offres spéciales, telles que des menus à prix réduits ou des promotions sur certains produits. 
+                  </p>
+                </div>
+                <div class="group space-y-6 border border-gray-100 bg-white px-8 py-12 text-center shadow-xl rounded-lg shadow-primary/5">
+                  <div class="flex justify-center">
+                    <span class="p-5 rounded-full bg-primary text-white">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="20" width="20" viewBox="0 0 20 20" fill="currentColor" class="w-6 h-6">
+                            <path fill-rule="evenodd" d="M2 3a1 1 0 00-1 1v1a1 1 0 001 1h16a1 1 0 001-1V4a1 1 0 00-1-1H2zm0 4.5h16l-.811 7.71a2 2 0 01-1.99 1.79H4.802a2 2 0 01-1.99-1.79L2 7.5zM10 9a.75.75 0 01.75.75v2.546l.943-1.048a.75.75 0 111.114 1.004l-2.25 2.5a.75.75 0 01-1.114 0l-2.25-2.5a.75.75 0 111.114-1.004l.943 1.048V9.75A.75.75 0 0110 9z" clip-rule="evenodd" />
+                          </svg>                          
+                    </span>
+                  </div>
+                  <h3 class="text-2xl font-semibold text-gray-dark">Excellence</h3>
+                  <p class="text-gray-500">
+                  Nous offrons une garantie de satisfaction à 100%, pour vous assurer que vous serez entièrement satisfait de notre service. Nous croyons que vous méritez le meilleur, c'est pourquoi nous nous efforçons constamment de nous améliore.
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+    </section>
+    <!-- services section -->
+
+
+    <!-- why-us section -->
+    <section id="why-us" class="pt-24 lg:pt-32">
+        <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
+            <div class="grid md:items-center md:grid-cols-2 gap-10 lg:gap-12">
+                <div class="flex flex-col gap-5">
+                    <div class="flex flex-col gap-5">
+                        <div class="flex flex-col">
+                            <span class="font-bold text-lg text-primary">- Pourquoi nous</span>
+                            <h2 class="text-4xl lg:text-4xl font-bold text-title">
+                            Vous cherchez un repas rapide, savoureux et à petit prix ? <div
+                                    class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
+                                    <span class="relative text-white"> Venez Chez Mobile Food</span>
+                                </div> 
+                            </h2>
+                        </div>
+                        <p class="md:line-clamp-2 text-gray-500">
+                        
+                        Nous proposons une variété de produits pour tous les goûts. Que ce soit nos burgers à la viande fraîchement préparés, nos sandwichs réalisés avec des produits frais provenant des petits producteurs locaux, ou nos wraps gourmands et originaux, chaque bouchée est savoureuse et préparée avec soin
+                        </p>
+                    </div>
+                    <div class="space-y-3">
+                        <div class="p-3 rounded-md bg-white shadow-lg shadow-transparent transition-all ease-linear border border-gray-100 hover:border-gray-200 hover:shadow-primary/20">
+                            <div class="flex gap-4">
+                                <div class="min-w-max">
+                                    <span class="flex text-primary aspect-square rounded bg-primary/10 p-3">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-7 h-7">
+                                            <path d="M12 9a1 1 0 01-1-1V3c0-.553.45-1.008.997-.93a7.004 7.004 0 015.933 5.933c.078.547-.378.997-.93.997h-5z" />
+                                            <path d="M8.003 4.07C8.55 3.992 9 4.447 9 5v5a1 1 0 001 1h5c.552 0 1.008.45.93.997A7.001 7.001 0 012 11a7.002 7.002 0 016.003-6.93z" />
+                                        </svg>                                          
+                                    </span>
+                                </div>
+                                <div class="space-y-0.5">
+                                    <h3 class="text-lg font-semibold text-gray-dark">
+                                        Achetez
+                                    </h3>
+                                    <p class="text-gray-500 line-clamp-2">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="p-3 rounded-md bg-white shadow-lg shadow-transparent transition-all ease-linear border border-gray-100 hover:border-gray-200 hover:shadow-primary/20">
+                            <div class="flex gap-4">
+                                <div class="min-w-max">
+                                    <span class="flex text-primary aspect-square rounded bg-primary/10 p-3">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-7 h-7">
+                                            <path d="M12 9a1 1 0 01-1-1V3c0-.553.45-1.008.997-.93a7.004 7.004 0 015.933 5.933c.078.547-.378.997-.93.997h-5z" />
+                                            <path d="M8.003 4.07C8.55 3.992 9 4.447 9 5v5a1 1 0 001 1h5c.552 0 1.008.45.93.997A7.001 7.001 0 012 11a7.002 7.002 0 016.003-6.93z" />
+                                        </svg>                                          
+                                    </span>
+                                </div>
+                                <div class="space-y-0.5">
+                                    <h3 class="text-lg font-semibold text-gray-dark">
+                                        Achetez
+                                    </h3>
+                                    <p class="text-gray-500 line-clamp-2">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="p-3 rounded-md bg-white shadow-lg shadow-transparent transition-all ease-linear border border-gray-100 hover:border-gray-200 hover:shadow-primary/20">
+                            <div class="flex gap-4">
+                                <div class="min-w-max">
+                                    <span class="flex text-primary aspect-square rounded bg-primary/10 p-3">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-7 h-7">
+                                            <path d="M12 9a1 1 0 01-1-1V3c0-.553.45-1.008.997-.93a7.004 7.004 0 015.933 5.933c.078.547-.378.997-.93.997h-5z" />
+                                            <path d="M8.003 4.07C8.55 3.992 9 4.447 9 5v5a1 1 0 001 1h5c.552 0 1.008.45.93.997A7.001 7.001 0 012 11a7.002 7.002 0 016.003-6.93z" />
+                                        </svg>                                          
+                                    </span>
+                                </div>
+                                <div class="space-y-0.5">
+                                    <h3 class="text-lg font-semibold text-gray-dark">
+                                        Achetez
+                                    </h3>
+                                    <p class="text-gray-500 line-clamp-2">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full md:h-full flex">
+                    <img src="{{asset('frontend/images/chef.webp')}}" width="500" alt="img cover about" class="w-full md:h-full object-cover rounded-lg">
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!-- why-us section -->
+
+
+    <section id="contact-us" class="pt-24 lg:pt-32 pb-16">
+        <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
+            <div class="grid md:grid-cols-3 gap-10">
+                <div class="md:col-span-2 flex flex-col gap-8">
+                    <div class="flex flex-col gap-5">
+                        <h2 class="text-4xl lg:text-4xl font-bold text-title">Prendre <div
+                            class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
+                            <span class="relative text-white">Contact</span></div> avec nous
+                        </h2>
+                        <p class="text-gray-500">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        </p>
+                    </div>
+                    <div class="flex w-full">
+                        <form action="" class="w-full gap-6 grid sm:grid-cols-2">
+                            <div class="col-span-1 space-y-1 text-gray-500">
+                                <label for="contact_name">Nom</label>
+                                <input type="text" name="contact_name" id="contact_name" class="w-full focus:caret-primary px-5 py-3 rounded-lg bg-white shadow-lg shadow-primary/5 outline-none transition-all ease-linear focus:text-gray-600 text-gray-500 border-2 border-gray-100 focus:shadow-primary/20 focus:border-primary">
+                            </div>
+                            <div class="col-span-1 space-y-1 text-gray-500">
+                                <label for="contact_email">Adresse mail</label>
+                                <input type="email" name="contact_email" id="contact_email" class="w-full focus:caret-primary px-5 py-3 rounded-lg bg-white shadow-lg shadow-primary/5 outline-none transition-all ease-linear focus:text-gray-600 text-gray-500 border-2 border-gray-100 focus:shadow-primary/20 focus:border-primary">
+                            </div>
+                            <div class="sm:col-span-2 space-y-1 text-gray-500">
+                                <label for="contact_msg">Message</label>
+                                <textarea name="contact_msg" id="contact_msg" class="w-full focus:caret-primary px-5 py-3 rounded-lg bg-white shadow-lg shadow-primary/5 outline-none transition-all ease-linear focus:text-gray-600 text-gray-500 border-2 border-gray-100 focus:shadow-primary/20 focus:border-primary h-32 resize-none"></textarea>
+                            </div>
+                            <div class="sm:col-span-2">
+                                <div class="w-max pt-4">
+                                    <button type="submit"
+                                        class="relative px-6 py-3.5 
+                                        after:absolute after:inset-0 after:z-0 after:bg-primary after:rounded-md after:transition after:ease-linear after:duration-300 hover:after:scale-105 focus:after:scale-100">
+                                        <span class="text-white relative z-10">Envoyer le message</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                
+                <div class="h-72 md:h-full border rounded-md overflow-hidden">
+                    Map Here
+                </div>
+            </div>
+        </div>
+    </section>
 @endsection
