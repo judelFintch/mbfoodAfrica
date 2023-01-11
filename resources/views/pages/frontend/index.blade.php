@@ -453,13 +453,13 @@
                         <div class="flex flex-col">
                             <span class="font-bold text-lg text-primary">- Pourquoi nous</span>
                             <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                            Vous cherchez un repas rapide, savoureux et à petit prix ? <div
+                            Vous cherchez<div
                                     class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                                    <span class="relative text-white"> Venez Chez Mobile Food</span>
+                                    <span class="relative text-white"> un repas savoureux ?</span>
                                 </div> 
                             </h2>
                         </div>
-                        <p class="md:line-clamp-2 text-gray-500">
+                        <p class="md:line-clamp-3 text-gray-500">
                         
                         Nous proposons une variété de produits pour tous les goûts. Que ce soit nos burgers à la viande fraîchement préparés, nos sandwichs réalisés avec des produits frais provenant des petits producteurs locaux, ou nos wraps gourmands et originaux, chaque bouchée est savoureuse et préparée avec soin
                         </p>
@@ -477,10 +477,10 @@
                                 </div>
                                 <div class="space-y-0.5">
                                     <h3 class="text-lg font-semibold text-gray-dark">
-                                        Achetez
+                                        
                                     </h3>
-                                    <p class="text-gray-500 line-clamp-2">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    <p class="text-gray-500 line-clamp-4">
+                                    Notre restaurant est entièrement écologique; tous nos produits proviennent de producteurs locaux respectueux de l'environnement et nos emballages sont entièrement compostables et biodégradables
                                     </p>
                                 </div>
                             </div>
@@ -498,10 +498,10 @@
                                 </div>
                                 <div class="space-y-0.5">
                                     <h3 class="text-lg font-semibold text-gray-dark">
-                                        Achetez
+                                        
                                     </h3>
-                                    <p class="text-gray-500 line-clamp-2">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    <p class="text-gray-500 line-clamp-4">
+                                    De plus, nous sommes fiers de proposer les prix les plus bas du marché. Nos menus affichent des prix abordables qui conviennent aux petits et grands budgets.
                                     </p>
                                 </div>
                             </div>
@@ -519,10 +519,10 @@
                                 </div>
                                 <div class="space-y-0.5">
                                     <h3 class="text-lg font-semibold text-gray-dark">
-                                        Achetez
+                                        
                                     </h3>
-                                    <p class="text-gray-500 line-clamp-2">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est animi reiciendis laboriosam aut
+                                    <p class="text-gray-500 line-clamp-4">
+                                    Venez découvrir notre fast food pour déguster de délicieux repas préparés avec des produits frais, écologiques et abordables. Nous vous promettons que vous ne serez pas déçu !
                                     </p>
                                 </div>
                             </div>
@@ -550,7 +550,7 @@
                             <span class="relative text-white">Contact</span></div> avec nous
                         </h2>
                         <p class="text-gray-500">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Si vous avez besoin de plus d'informations supplémentaires ou pour un entretien, n'hésitez pas à nous contactez
                         </p>
                     </div>
                     <div class="flex w-full">
