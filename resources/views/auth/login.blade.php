@@ -64,7 +64,7 @@
                       </g>
                     </svg>
                   </span>
-                  <span class="app-brand-text demo text-body fw-bolder">Sneat</span>
+                  <span class="app-brand-text demo text-body fw-bolder">FintcWeb</span>
                 </a>
               </div>
               <!-- /Logo -->
@@ -130,7 +130,7 @@
 
               <p class="text-center">
                 <span>New on our platform?</span>
-                <a href="auth-register-basic.html">
+                <a href="{{route('register')}}">
                   <span>Create an account</span>
                 </a>
               </p>

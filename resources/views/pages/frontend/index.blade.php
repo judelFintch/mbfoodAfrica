@@ -10,13 +10,13 @@
                     <div class="flex flex-col gap-5 items-center lg:items-start">
                         <h1
                             class="text-4xl text-center leading-snug lg:text-left md:text-5xl lg:text-6xl font-bold text-title">
-                            Trouvez les <div
+                           Avec mobile Food Trouvez les <div
                                 class="relative inline-block w-max before:absolute before:bg-primary before:inset-0 before:skew-x-6 before:rounded-md ">
                                 <span class="relative text-white">meilleurs</span>
                             </div> plats de la ville
                         </h1>
-                        <p class="text-gray-500 line-clamp-3">
-                        Comment ça marche ? C'est très simple !.
+                        <p class="text-gray-600 line-clamp-4">
+                        Manger rapidement et facilement, c'est possible avec Mobile Food! Commandez en ligne et faites-vous livrer ou venez retirer votre commande en magasin. Plus besoin de faire la queue, commandez depuis votre ordinateur ou votre téléphone portable
                         </p>
                     </div>
                     <div class="flex w-full sm:flex-row gap-5 flex-col sm:w-max justify-center lg:justify-start">
@@ -71,10 +71,10 @@
                 <div class="flex flex-col text-center items-center mx-auto max-w-xl">
                     <span class="font-bold text-lg text-primary">- Categories</span>
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                    C'est le moment de commander <div
+                    Venez découvrir la variété de nos produits  !  <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">Votre Plat</span>
-                        </div> chez mobile Food
+                            <span class="relative text-white">chez notre fast-food</span>
+                        </div> 
                     </h2>
                 </div>
                 <div class="grid grid-cols-2 md:grid-cols-3 items-stretch gap-4 sm:gap-8 lg:gap-10">
@@ -133,9 +133,9 @@
                 <div class="flex flex-col text-center items-center mx-auto max-w-xl">
                     <span class="font-bold text-lg text-primary">- Menus</span>
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                        Les meilleurs plats <div
+                    Venez déguster nos nouveaux  <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">Lorem ips</span>
+                            <span class="relative text-white">Plats</span>
                         </div>
                     </h2>
                 </div>
@@ -360,7 +360,7 @@
                     </div>
                     <div class="space-y-1">
                         <p class="text-gray-500">
-                        L’objectif de l’entreprise et sa ligne directrice sont de préparer et de livrer des plats fast Food de meilleure qualité et dans le bref délai possible pour satisfaire aux besoins de nos clients. 
+                        Manger rapidement et facilement, c'est possible avec Mobile Food ! Commandez en ligne et faites-vous livrer ou venez retirer votre commande en magasin. Plus besoin de faire la queue, commandez depuis votre ordinateur ou votre téléphone portable. Avec notre large choix de burgers, de frites et de boissons, vous pourrez satisfaire vos envies de fast-food en quelques clics. Et pour couronner le tout, bénéficiez de réductions exclusives en passant commande en ligne. Commandez dès maintenant et découvrez la simplicité de manger rapidement chez [Nom de la chaine de fast-food]"
                         </p>
                         <p class="text-gray-500">
                         Notre mission est de devenir un géant de la restauration en république démocratique du Congo,  et en Afrique,  reconnu pour la qualité des produits et le service rapide. 
