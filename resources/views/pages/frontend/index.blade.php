@@ -73,7 +73,7 @@
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
                     Découvrez la variété de  produits  !  <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">chez Mobile Food Africa</span>
+                            <span class="relative text-white">de  produits</span>
                         </div> 
                     </h2>
                 </div>
