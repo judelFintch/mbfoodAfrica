@@ -71,9 +71,9 @@
                 <div class="flex flex-col text-center items-center mx-auto max-w-xl">
                     <span class="font-bold text-lg text-primary">- Categories</span>
                     <h2 class="text-4xl lg:text-4xl font-bold text-title">
-                    Découvrez la variété de  produits  !  <div
+                    Découvrez la variété  !  <div
                             class="w-max inline-block relative before:absolute before:inset-0 before:bg-primary p-0.5 before:skew-x-6 before:rounded-md ">
-                            <span class="relative text-white">de  produits</span>
+                            <span class="relative text-white">de nos  produits</span>
                         </div> 
                     </h2>
                 </div>
