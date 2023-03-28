@@ -45,7 +45,8 @@
                     <div class="relative flex h-full lg:pt-4 items-center justify-center">
                         <img src="{{asset('frontend/images/Image.png')}}" width="400" alt="hungry young girl" class=" lg:w-auto lg:h-full flex relative">
                         <div class="absolute -bottom-3 -right-3 p-2 bg-white rounded-lg shadow-lg shadow-primary/10">
-                            <div class="flex items-center gap-3">
+                        <!-- 
+                        <div class="flex items-center gap-3">
                                 <div class="flex w-16 h-16 rounded-md overflow-hidden">
                                     <img src="images/food1.webp" alt="product" class="w-full h-full object-cover" width="200">
                                 </div>
@@ -55,6 +56,7 @@
                                     <p class="block text-gray-dark"><span class="text-primary">32</span> $</p>
                                 </div>
                             </div>
+                          -->
                         </div>
                     </div>
                 </div>
@@ -126,7 +128,7 @@
     <!-- categories section -->
 
 
-    <!-- menus section -->
+    <!-- menus section 
     <section id="menus" class="pt-24 lg:pt-32">
         <div class="mx-auto w-full max-w-screen-lg lg:max-w-screen-xl px-5 sm:px-10 md:px-12 lg:px-6">
             <div class="flex flex-col gap-7">
@@ -339,7 +341,7 @@
 
         </div>
     </section>
-    <!-- menus section -->
+    menus section -->
 
     <!-- about section -->
     <section id="about" class="pt-24 lg:pt-32">
